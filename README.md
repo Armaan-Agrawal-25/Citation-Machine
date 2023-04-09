@@ -1,0 +1,2 @@
+Citation Machine: Designed and developed a “Citation Machine” application that utilizes the Swing library in Java to take in information about a book and novel and automatically create a citation in the MLA format. This was created to make the process of citing sources easier for students.
+- Wrote a Java program along with the Swing library that takes in information about a book or novel inputted by a user  and creates a citation in MLA format.
